@@ -1,6 +1,6 @@
 # Create a calculator- Hands-on
 
-##Specification
+## Specification
 
 - Calculator should have the following operators (+,-,*,/,%)
 - Calculator should have a menu
