@@ -6,26 +6,20 @@
 - Log execution time of the search
 
 
-# Path or File Checker
-
-## Specs
+## Path or File Checker
 
 - Input path or file
 - Check if Path/File exists
 - Check if Path or File
 
 
-# List files with Extension
-
-## Specs
+## List files with Extension
 
 - Input path
 - List files with extention
 
 
-# List files older than 3 days
-
-## Specs
+## List files older than 3 days
 
 - Input path
 - List files older than 3 days
