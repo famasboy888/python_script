@@ -1,6 +1,8 @@
 import sys
 from modules.EmployeeBot import *
 
+#Author: Kyle Yap
+
 def main():
 
     #Check argumments passed

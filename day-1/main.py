@@ -4,6 +4,8 @@ from modules.mul import *
 from modules.div import *
 from modules.mod import *
 
+#Author: Kyle Yap
+
 def main():
     
     choice=-1
