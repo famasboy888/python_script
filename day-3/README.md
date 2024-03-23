@@ -13,3 +13,11 @@
 - Input path or file
 - Check if Path/File exists
 - Check if Path or File
+
+
+# List files with Extension
+
+## Specs
+
+- Input path
+- List files with extention
