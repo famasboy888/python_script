@@ -1,0 +1,172 @@
+{
+    "result": [
+      {
+        "status": "active",
+        "name": {
+          "first": "Fausto",
+          "middle": "Phoenix",
+          "last": "Osinski"
+        },
+        "username": "Fausto-Osinski",
+        "password": "jbXSmmC7ZEYj6q0",
+        "emails": [
+          "Sincere59@example.com",
+          "Judge11@example.com"
+        ],
+        "phoneNumber": "(606) 823-0606",
+        "location": {
+          "street": "842 Little Radial",
+          "city": "Eagan",
+          "state": "Colorado",
+          "country": "Falkland Islands (Malvinas)",
+          "zip": "61467",
+          "coordinates": {
+            "latitude": 71.9767,
+            "longitude": 63.5843
+          }
+        },
+        "website": "https://acclaimed-gallon.biz/",
+        "domain": "worthy-pioneer.biz",
+        "job": {
+          "title": "Lead Data Engineer",
+          "descriptor": "Future",
+          "area": "Assurance",
+          "type": "Technician",
+          "company": "Welch and Sons"
+        },
+        "creditCard": {
+          "number": "6304-3158-1120-8505",
+          "cvv": "694",
+          "issuer": "mastercard"
+        },
+        "uuid": "24142357-230a-4e13-a274-718bc5996ad3",
+        "objectId": "65feb17c9ca69c1e17bba0c2"
+      },
+      {
+        "status": "disabled",
+        "name": {
+          "first": "Bernita",
+          "middle": "Kai",
+          "last": "Bosco"
+        },
+        "username": "Bernita-Bosco",
+        "password": "2C4IHULrjQo3U3p",
+        "emails": [
+          "Jack62@gmail.com",
+          "Kylie.Ratke70@example.com"
+        ],
+        "phoneNumber": "(606) 373-4223 x806",
+        "location": {
+          "street": "70665 Champlin Burg",
+          "city": "East Matteoton",
+          "state": "Alabama",
+          "country": "Chile",
+          "zip": "65929-5558",
+          "coordinates": {
+            "latitude": -36.0407,
+            "longitude": 38.921
+          }
+        },
+        "website": "https://animated-crisp.net",
+        "domain": "weary-occupation.org",
+        "job": {
+          "title": "Chief Usability Architect",
+          "descriptor": "Lead",
+          "area": "Optimization",
+          "type": "Agent",
+          "company": "Nitzsche and Sons"
+        },
+        "creditCard": {
+          "number": "6485-6712-1282-7694",
+          "cvv": "830",
+          "issuer": "mastercard"
+        },
+        "uuid": "d25376a5-846a-4d73-bfe5-7dc573478b7c",
+        "objectId": "65feb17c9ca69c1e17bba0c3"
+      },
+      {
+        "status": "disabled",
+        "name": {
+          "first": "Ernestine",
+          "middle": "Sawyer",
+          "last": "Langosh"
+        },
+        "username": "Ernestine-Langosh",
+        "password": "TCS6nGTXa9vlgwb",
+        "emails": [
+          "Carrie.VonRueden69@gmail.com",
+          "Candida66@gmail.com"
+        ],
+        "phoneNumber": "(778) 291-0977 x9075",
+        "location": {
+          "street": "233 Prohaska Brook",
+          "city": "Sammamish",
+          "state": "California",
+          "country": "Tajikistan",
+          "zip": "49089",
+          "coordinates": {
+            "latitude": -24.7285,
+            "longitude": -49.0924
+          }
+        },
+        "website": "https://heavenly-porcelain.net/",
+        "domain": "ironclad-snowman.net",
+        "job": {
+          "title": "Chief Paradigm Officer",
+          "descriptor": "National",
+          "area": "Solutions",
+          "type": "Developer",
+          "company": "Konopelski, Reinger and Wiegand"
+        },
+        "creditCard": {
+          "number": "3556-9771-6366-2001",
+          "cvv": "914",
+          "issuer": "discover"
+        },
+        "uuid": "c00c7739-6048-4712-83fa-ff2cd28ea083",
+        "objectId": "65feb17c9ca69c1e17bba0c4"
+      },
+      {
+        "status": "active",
+        "name": {
+          "first": "Pattie",
+          "middle": "Addison",
+          "last": "Brekke"
+        },
+        "username": "Pattie-Brekke",
+        "password": "YN_0jty0CcQnKCc",
+        "emails": [
+          "Tamara.Shanahan@example.com",
+          "Muhammad.Cummerata12@gmail.com"
+        ],
+        "phoneNumber": "1-924-932-7178 x49968",
+        "location": {
+          "street": "5202 Simonis Dam",
+          "city": "DeKalb",
+          "state": "Rhode Island",
+          "country": "Slovenia",
+          "zip": "70423-0095",
+          "coordinates": {
+            "latitude": 59.1852,
+            "longitude": -141.7653
+          }
+        },
+        "website": "https://thoughtful-arrangement.org/",
+        "domain": "weird-activist.com",
+        "job": {
+          "title": "Customer Applications Representative",
+          "descriptor": "Future",
+          "area": "Assurance",
+          "type": "Engineer",
+          "company": "Roob LLC"
+        },
+        "creditCard": {
+          "number": "3406-289940-91681",
+          "cvv": "293",
+          "issuer": "visa"
+        },
+        "uuid": "fd69fcb3-cb0c-4de3-b731-e7dcb258553a",
+        "objectId": "65feb17c9ca69c1e17bba0c5"
+      }
+    ]
+  }
