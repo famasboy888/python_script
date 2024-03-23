@@ -1,6 +1,6 @@
 import csv
 
-#Author: Kyle Yap
+#Author: Kyle Yap 
 
 csv_file=open('test.csv','r')
 data=csv.reader(csv_file,delimiter=',')

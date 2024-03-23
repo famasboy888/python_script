@@ -1,6 +1,6 @@
 import json
 
-#Author: Kyle Yap
+#Author: Kyle Yap 
 
 file=open('data.json','r')
 data=json.load(file)
